@@ -9,4 +9,4 @@ Credit: "Global Map of Dominica ©ISCGM / Lands and Surveys Division, Dominica"
 
 Contact: Lands and Surveys Division.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/dominica.png)
+E-mail: ![email](email.png)
